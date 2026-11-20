@@ -1,6 +1,6 @@
 # Edge Log Privacy Policy
 
-_Last updated: [11/20/2026]_
+_Last updated: 11/20/2026
 
 **Edge Log does not collect any data.** There are no accounts, no analytics, no advertising and no tracking. We (the developer) never receive anything you enter in the app.
 
@@ -25,4 +25,4 @@ Edge Log collects no personal information from anyone, including children.
 If this policy changes, the updated version will be posted at this address with a new date.
 
 ## Contact
-Questions: [narwhal_dev@proton.me]
+Questions: narwhal_dev@proton.me
